@@ -1,5 +1,5 @@
 # 2️⃣ Linux-System-Monitor
-
+---
 ## 🖥️ Linux System Monitor
 
 A lightweight monitoring toolkit for **Linux environments**.  
