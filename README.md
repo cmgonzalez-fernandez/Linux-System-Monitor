@@ -1,6 +1,6 @@
 ---
 
-# **2️⃣ Linux-System-Monitor README.md**
+# **Linux-System-Monitor README.md**
 
 ```markdown
 # Linux System Monitor
