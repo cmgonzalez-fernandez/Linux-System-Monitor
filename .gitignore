@@ -1,1 +1,9 @@
-# Ignore files
+## 🛠 Features
+- CPU, memory, disk usage monitoring.
+- Log file monitoring with alerts.
+- Bash and Python scripts for automation.
+
+## 🚀 How to Run
+```bash
+# Run the main monitoring script
+python3 scripts/system_monitor.py
