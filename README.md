@@ -26,7 +26,7 @@ Linux-System-Monitor/
 └── README.md
 ```
 ---
-##🚀 How to Run
+## 🚀 How to Run
 ```bash
 # 1. Install Ansible
 sudo apt install ansible -y
