@@ -1,9 +1,33 @@
-## 🛠 Features
-- CPU, memory, disk usage monitoring.
-- Log file monitoring with alerts.
-- Bash and Python scripts for automation.
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-## 🚀 How to Run
-```bash
-# Run the main monitoring script
-python3 scripts/system_monitor.py
+# Logs
+*.log
+logs/
+*.out
+
+# Environment files
+.env
+venv/
+.venv/
+env/
+ENV/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE folders
+.vscode/
+.idea/
+
+# Temporary or backup files
+*.bak
+*.tmp
+*~
+
+# Output / reports
+reports/
+output/
