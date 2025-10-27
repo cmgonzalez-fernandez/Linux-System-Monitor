@@ -24,7 +24,7 @@ Linux-System-Monitor/
 ├── logs/
 │   └── system_stats.log
 └── README.md
-```bash
+```
 ---
 ##🚀 How to Run
 ```bash
@@ -36,4 +36,4 @@ cd ansible/playbooks
 
 # 3. Run a sample playbook
 ansible-playbook network_setup.yml -i inventory.ini
-```bash
+```
