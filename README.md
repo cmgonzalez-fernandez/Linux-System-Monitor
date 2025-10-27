@@ -1,6 +1,5 @@
 # 2️⃣ Linux-System-Monitor
 
-```markdown
 # 🖥️ Linux System Monitor
 
 A lightweight monitoring toolkit for **Linux environments**.  
