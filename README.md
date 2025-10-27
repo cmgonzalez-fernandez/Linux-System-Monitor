@@ -24,3 +24,14 @@ Linux-System-Monitor/
 ├── logs/
 │   └── system_stats.log
 └── README.md
+---
+##🚀 How to Run
+```bash
+# 1. Install Ansible
+sudo apt install ansible -y
+
+# 2. Navigate to the project directory
+cd ansible/playbooks
+
+# 3. Run a sample playbook
+ansible-playbook network_setup.yml -i inventory.ini
