@@ -27,15 +27,15 @@ Linux-System-Monitor/
 ```
 ---
 ## 🚀 How to Run
-# 1. Install Ansible
+ 1. Install Ansible
 ```bash
 sudo apt install ansible -y
 ```
-# 2. Navigate to the project directory
+ 2. Navigate to the project directory
 ```bash
 cd ansible/playbooks
 ```
-# 3. Run a sample playbook
+ 3. Run a sample playbook
 ```bash
 ansible-playbook network_setup.yml -i inventory.ini
 ```
