@@ -1,4 +1,4 @@
-# 2️⃣ Linux-System-Monitor
+# Linux-System-Monitor
 ---
 ## 🖥️ Linux System Monitor
 
