@@ -1,6 +1,4 @@
-# Linux-System-Monitor
----
-## 🖥️ Linux System Monitor
+# 🖥️ Linux System Monitor
 
 A lightweight monitoring toolkit for **Linux environments**.  
 This project demonstrates the use of Bash and Python scripts to monitor CPU, memory, disk usage, and login attempts in real time.
