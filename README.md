@@ -40,5 +40,5 @@ cd ansible/playbooks
 ansible-playbook network_setup.yml -i inventory.ini
 ```
 ---
-## 👤 Author
+### 👤 Author
  Carlos M. González-Fernández
