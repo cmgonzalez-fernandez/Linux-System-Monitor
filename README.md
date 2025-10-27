@@ -1,36 +1,30 @@
+
+---
+
+## 2️⃣ Linux-System-Monitor
+
+```markdown
 # 🖥️ Linux System Monitor
 
-Monitor de sistema Linux con scripts de **Python** y **Bash** para analizar recursos, revisar logs y detectar intentos de acceso no autorizados.
+A lightweight monitoring toolkit for **Linux environments**.  
+This project demonstrates the use of Bash and Python scripts to monitor CPU, memory, disk usage, and login attempts in real time.
 
 ---
 
-## 🧠 Descripción
-Este proyecto fue creado como parte de mi portafolio técnico.  
-Permite automatizar tareas comunes de administración de sistemas Linux como:
-
-- Ver el uso de **CPU, memoria y disco**.
-- Monitorear archivos de logs del sistema.
-- Detectar intentos fallidos de inicio de sesión.
-- Generar alertas automáticas ante eventos específicos.
+## 🧩 Project Overview
+The Linux System Monitor provides automated data collection and alerting for key system metrics.  
+Designed to help administrators detect performance issues and unauthorized access attempts.
 
 ---
 
-## 🛠️ Características
-- Scripts en **Python 3** y **Bash**.
-- Análisis de logs en `/var/log/auth.log`.
-- Reportes automáticos en formato `.txt`.
-- Totalmente modular y personalizable.
-
----
-
-## 🚀 Cómo ejecutar
+## 📂 Folder Structure
 ```bash
-# Clona el repositorio
-git clone https://github.com/cmgonzalez-fernandez/Linux-System-Monitor.git
-cd Linux-System-Monitor
-
-# Da permisos de ejecución a los scripts
-chmod +x scripts/*.sh
-
-# Ejecuta el script principal
-python3 scripts/monitor_login_attempts.py
+Linux-System-Monitor/
+├── scripts/
+│   ├── monitor_cpu_usage.sh
+│   ├── monitor_memory_usage.sh
+│   ├── monitor_disk_usage.sh
+│   └── monitor_login_attempts.py
+├── logs/
+│   └── system_stats.log
+└── README.md
