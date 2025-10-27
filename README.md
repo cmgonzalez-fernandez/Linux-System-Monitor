@@ -1,6 +1,4 @@
----
-
-## 2️⃣ Linux-System-Monitor
+# 2️⃣ Linux-System-Monitor
 
 ```markdown
 # 🖥️ Linux System Monitor
