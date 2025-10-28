@@ -15,10 +15,11 @@ Designed to help administrators detect performance issues and unauthorized acces
 ```bash
 Linux-System-Monitor/
 ├── scripts/
+│   ├── disk_usage_alert.sh
 │   ├── monitor_cpu_usage.sh
 │   ├── monitor_memory_usage.sh
-│   ├── monitor_disk_usage.sh
-│   └── monitor_login_attempts.py
+│   ├── monitor_login_attempts.py
+│   └── send_alert_email.sh
 ├── logs/
 │   └── system_stats.log
 └── README.md
